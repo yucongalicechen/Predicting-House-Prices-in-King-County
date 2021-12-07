@@ -6,7 +6,7 @@ This project aims to predict house prices in King County using multiple linear r
 
 For the full project, please see the attached pdf.
 
-(Note that the sections of "boxplot" and "scatterplot" in order to reduce the file size.)
+(Note that the sections of "Boxplot" and "Scatterplot" were removed in order to reduce the file size.)
 
 ## References
 https://www.kaggle.com/swathiachath/kc-housesales-data?select=kc_house_data.csv
